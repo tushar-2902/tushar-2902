@@ -1,24 +1,18 @@
-<!-- 🌊 3D Animated Name Banner (Stable) -->
+<!-- 🌊 Optimized 3D Animated Banner (No render issue) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abfbf&height=180&section=header&text=Tushar%20Mishra%20🚀&fontSize=40&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Cloud%20Infra%20Specialist&descSize=20&descAlign=50&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abfbf&height=120&section=header&text=Tushar%20Mishra%20🚀&fontSize=35&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Cloud%20Infra%20Specialist&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AF7F7&center=true&vCenter=true&multiline=true&width=800&height=60&lines=🚀+DevOps+Engineer+%7C+CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Azure;🔧+Cloud+Infra+Automation+%7C+Python+%26+Bash+%7C+Kubernetes+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0AF7F7&center=true&vCenter=true&multiline=true&width=800&height=50&lines=🚀+DevOps+Engineer+%7C+CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Azure;🔧+Cloud+Infra+Automation+%7C+Python+%26+Bash+%7C+Kubernetes+Learner" />
 </p>
 
 <!-- 🌐 Social Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/tushar-mishra-02461235a">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
-  </a>
-  <a href="mailto:tusharmishra2902@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
-  </a>
-  <a href="https://github.com/tushar-2902">
-    <img src="https://skillicons.dev/icons?i=github" width="40px" />
-  </a>
+  <a href="https://linkedin.com/in/tushar-mishra-02461235a"><img src="https://skillicons.dev/icons?i=linkedin" width="38px" /></a>
+  <a href="mailto:tusharmishra2902@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38px" /></a>
+  <a href="https://github.com/tushar-2902"><img src="https://skillicons.dev/icons?i=github" width="38px" /></a>
 </p>
 
 ---
@@ -32,7 +26,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,terraform,kubernetes,githubactions,linux,bash,py,java,cpp,git,vscode" />
@@ -44,22 +38,22 @@
 
 ### 🔧 DevOps Intern – *DevOps Insider* (Dec 2023 – May 2024)
 
-- 🏗️ Designed & deployed Azure infra via **Terraform modules**  
-- 🔁 Built **CI/CD pipelines** using GitHub Actions & Azure DevOps  
-- 🐳 Dockerized apps for cloud deployment  
-- 🔒 Implemented secure, Git-driven release flows
+- 🏗️ Designed & deployed Azure infra using **Terraform modules**  
+- 🔁 Built **CI/CD pipelines** with GitHub Actions & Azure DevOps  
+- 🐳 Dockerized applications for cloud environments  
+- 🔒 Implemented secure GitOps-based release cycles
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
-| Project | Tech Used | Highlights |
-|--------|-----------|------------|
-| **CI/CD Pipeline – Node.js** | GitHub Actions, Docker, Azure | Automated build-test-deploy |
-| **Azure Infra as Code** | Terraform, GitHub Actions | VM + storage IaC with modules |
-| **Zero Chat App** | Spring Boot, SQL, Azure | Real-time messaging backend |
+| Project | Tech | Highlights |
+|--------|------|------------|
+| **CI/CD – Node.js App** | GitHub Actions, Docker, Azure | Auto build + deploy with rollback |
+| **Azure IaC** | Terraform, GitHub Actions | Modular VM + Storage provisioning |
+| **Zero Chat API** | Spring Boot, SQL, Azure | Real-time chat backend deployed on cloud |
 
-🔗 [See All Projects »](https://github.com/tushar-2902?tab=repositories)
+🔗 [Explore My Projects »](https://github.com/tushar-2902?tab=repositories)
 
 ---
 
@@ -83,23 +77,23 @@
 ## 📚 Currently Learning
 
 - ☸️ Kubernetes (AKS, Helm, ArgoCD)  
-- 📊 Monitoring with Prometheus + Grafana  
-- 🔐 Azure Key Vault & IAM  
-- 🧠 GitOps, Infra Resilience, SRE Mindset
+- 📊 Prometheus + Grafana  
+- 🔐 Azure Key Vault + IAM  
+- 🧠 GitOps & Infrastructure Resilience
 
 ---
 
 ## 📜 Certifications
 
-| 🏆 Certification             | 📌 Platform          |
-|-----------------------------|----------------------|
-| Terraform on Azure          | Microsoft Learn      |
-| Linux Command Line Basics   | Coursera             |
-| Google Cloud Essentials     | Google Cloud Boost   |
+| 🏆 Certification           | Platform         |
+|---------------------------|------------------|
+| Terraform on Azure        | Microsoft Learn  |
+| Linux Command Line Basics | Coursera         |
+| Google Cloud Essentials   | Google Cloud     |
 
 ---
 
-## 🧱 DevOps Pipeline Architecture
+## 🧱 DevOps Architecture
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/melanieshi0120/tech_images/main/devops-pipeline-diagram.png" width="80%" />
@@ -107,10 +101,10 @@
 
 ---
 
-## 📄 Resume
+## 📎 Resume
 
-📎 [**Download Resume (PDF)**](https://github.com/tushar-2902/tushar-2902/blob/main/Tushar_Mishra_Resume.pdf)  
-📬 Email: **tusharmishra2902@gmail.com**
+📄 [**Download Resume (PDF)**](https://github.com/tushar-2902/tushar-2902/blob/main/Tushar_Mishra_Resume.pdf)  
+📬 **tusharmishra2902@gmail.com**
 
 ---
 
