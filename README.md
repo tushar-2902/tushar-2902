@@ -1,19 +1,20 @@
-<!-- 🌟 Stylish 3D Banner (Hosted on Imgur) -->
+<!-- 🌟 3D Banner with Animated Wave -->
 <p align="center">
-  <img src="https://i.imgur.com/7hPoPbJ.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abfbf&height=200&section=header&text=Tushar%20Mishra%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ⌨️ Typing Animation -->
+<!-- ⌨️ Typing Animation Fixed -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0AF7F7&center=true&vCenter=true&multiline=true&width=800&height=50&lines=🚀+DevOps+Engineer+%7C+CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Azure;🔧+Cloud+Infra+Automation+%7C+Python+%26+Bash+%7C+Kubernetes+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0AF7F7&center=true&vCenter=true&multiline=true&width=800&height=60&lines=🚀+DevOps+Engineer+%7C+CI%2FCD+%7C+Terraform+%7C+Docker+%7C+Azure;🔧+Cloud+Infra+Automation+%7C+Python+%26+Bash+%7C+Kubernetes+Learner" />
 </p>
 
-<!-- 🌐 Social Icons -->
+<!-- 🌐 3D Glass Social Icons -->
 <p align="center">
   <a href="https://linkedin.com/in/tushar-mishra-02461235a"><img src="https://skillicons.dev/icons?i=linkedin" width="38px" /></a>
   <a href="mailto:tusharmishra2902@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38px" /></a>
   <a href="https://github.com/tushar-2902"><img src="https://skillicons.dev/icons?i=github" width="38px" /></a>
 </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -59,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tushar-2902&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tushar-2902&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tushar-2902&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tushar-2902&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +69,7 @@
 ## 🌍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-2902&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-2902&theme=react-dark&area=true&hide_border=true&custom_title=Tushar's%20Contribution%20Graph" />
 </p>
 
 ---
