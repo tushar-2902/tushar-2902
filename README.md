@@ -1,6 +1,6 @@
-<!-- 🌊 Optimized 3D Animated Banner (No render issue) -->
+<!-- 🌟 Stylish 3D Banner (Hosted on Imgur) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abfbf&height=120&section=header&text=Tushar%20Mishra%20🚀&fontSize=35&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Cloud%20Infra%20Specialist&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn" />
+  <img src="https://i.imgur.com/7hPoPbJ.png" width="100%" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
@@ -14,7 +14,6 @@
   <a href="mailto:tusharmishra2902@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38px" /></a>
   <a href="https://github.com/tushar-2902"><img src="https://skillicons.dev/icons?i=github" width="38px" /></a>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
